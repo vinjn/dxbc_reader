@@ -1,0 +1,1 @@
+%~dp0\lua\lua.exe %~dp0\dxbc_reader.lua %1 -o %1.txt
